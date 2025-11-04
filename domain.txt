@@ -1,0 +1,16 @@
+||flashtalking.com^
+||2mdn.net^
+||tpc.googlesyndication.com^
+||s0.2mdn.net^
+||googleads.g.doubleclick.net^
+||doubleclick.net^
+||google-analytics.com^
+||googletagmanager.com^
+||facebook.com^
+||connect.facebook.net^
+||youtube.com^
+||googlevideo.com^
+||palcomp3.com^
+||adsense.google.com^
+||gstatic.com^
+||googlesyndication.com^
