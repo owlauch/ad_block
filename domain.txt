@@ -14,3 +14,9 @@ palcomp3.com
 adsense.google.com
 gstatic.com
 googlesyndication.com
+tpc.googlesyndication.com
+googleads.g.doubleclick.net
+www.googleadservices.com
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+cdn.ampproject.org
