@@ -6,11 +6,6 @@ googleads.g.doubleclick.net
 doubleclick.net
 google-analytics.com
 googletagmanager.com
-facebook.com
-connect.facebook.net
-youtube.com
-googlevideo.com
-palcomp3.com
 adsense.google.com
 gstatic.com
 googlesyndication.com
